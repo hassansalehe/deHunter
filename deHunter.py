@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from Driver import Driver
 
 def main():
